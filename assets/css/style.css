@@ -105,11 +105,11 @@ body {
 /* portfolio page */
 
 
-.work {
+.col-md-5 {
   position: relative;
   float: left;
   width: 274px;
-  margin: 20px 0 25px;
+  margin: 10px 10px 10px 20px;
   overflow: auto;
 }
 
